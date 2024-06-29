@@ -1,35 +1,39 @@
 
-# Hi there! 
+# Hi there!
 
-👋 I'm Tony, a Software Engineer Student at UWaterloo. 
+👋 I'm Tony, a Software Engineer Student at UWaterloo, specializing in AI.
 
-👀 I'm passionate about building innovative software solutions and exploring new technologies.
+👀 I'm passionate about building innovative ML software solutions and exploring new technologies.
 
-🔭 I’m looking for a Summer 2024 Internship.
+🔭 I’m looking for a Winter 2025 Internship.
 
-🌱 I’m currently learning more about AI/ML and LLMs at NorwAI 🇳🇴.
+🌱 I’m currently MLE at Cresta.
 
 📫 How to reach me: [Email](mailto:tony.li3@uwaterloo.ca) | [LinkedIn](https://ca.linkedin.com/in/tony--li)
 
 ### Languages:
-- Python, C++, C, JavaScript, Java, HTML, CSS, SQL, Solidity, Bash
+- Python, C++, C, JavaScript, Java, Bash, HTML, CSS, SQL, Solidity
 
-### Tools:
-- Django, Flask, Pandas, PyTorch, TensorFlow, Spring Boot, React, Node, Express, Bootstrap, MongoDB
+### ML Tools & Technologies:
+- PyTorch, TensorFlow, Pandas, NumPy, GPT, Cohere, Llama, Mistral, BERT, NeMo, PostgreSQL, Linux, Git
 
-### Technologies:
-- AWS, Docker, K8s, Llama, BERT, RabbitMQ, Firebase, Redux, Jira, Git, Jenkins, Postman, Figma, Remix, Linux
+### SWE Tools & Technologies:
+- AWS, Docker, K8s, Django, Flask, Spring Boot, React, Node, Express, MongoDB, Postman, Figma, Git
 
 
-### Projects:
+### ML Projects:
+1. [Finance Market Sentiment Classifier](https://github.com/tonygr-li/Finance-Mood-Analyzer)
+- Fine tuned Cohere Classifier to analyze current market sentiment with 97% accuracy and 96% F1 score.
+
+2. [AI Case Summarizer Chatbot](https://github.com/tonygr-li/AI-Case-Summarizer)
+- Created an AI summarizer to extract important points from legal cases, utilizing text chunking and batch processing methods for optimal performance.
+
+### SWE Projects:
 1. [Video Converter](https://github.com/tonygr-li/Microservices-Distributed-Systems)
-   - Developed a video processing microservice responsible for queuing and converting uploaded videos to MP3 format using RabbitMQ for asynchronous communications and Kubernetes for orchestration.
+- Developed a video processing microservice responsible for queuing and converting uploaded videos to MP3 format using RabbitMQ for asynchronous communications and Kubernetes for orchestration.
 
 2. [Find Your Books](https://github.com/tonygr-li/Find-Your-Books)
-   - Deployed a webapp for students to buy and sell used textbooks with secure authentication and administration panel for management.
-
-3. [AI Case Summarizer Chatbot](https://github.com/tonygr-li/AI-Case-Summarizer)
-   - Created an AI summarizer to extract important points from legal cases utilizing text chunking and batch processing methods for optimal performance.
+- Deployed a webapp for students to buy and sell used textbooks with secure authentication and administration panel for management.
 
 <!--
 ### Hi there 👋
