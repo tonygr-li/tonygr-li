@@ -1,21 +1,21 @@
 
 # Hi there!
 
-👋 I'm Tony, a Software Engineer Student at UWaterloo, specializing in AI.
+👋 I'm Tony, a Software Engineering Student at UWaterloo, specializing in AI/ML.
 
 👀 I'm passionate about building innovative ML software solutions and exploring new technologies.
 
-🔭 I’m looking for a Winter 2025 Internship.
+🔭 I’m currently looking for a Summer 2025 Internship (MLE or SWE).
 
-🌱 I’m currently MLE at Cresta.
+🌱 I’m currently Research Assistant at UWaterloo, focusing on NLP.
 
 📫 How to reach me: [Email](mailto:tony.li3@uwaterloo.ca) | [LinkedIn](https://ca.linkedin.com/in/tony--li)
 
 ### Languages:
-- Python, C++, C, JavaScript, Java, Bash, HTML, CSS, SQL, Solidity
+- Python, C++, C, Go, JavaScript, Java, SQL, HTML, CSS, Bash, Solidity
 
 ### ML Tools & Technologies:
-- PyTorch, TensorFlow, Pandas, NumPy, GPT, Cohere, Llama, Mistral, BERT, NeMo, PostgreSQL, Linux, Git
+- PyTorch, TensorFlow, LangChain, Pandas, NumPy, MatplotLib, NLTK, PostgreSQL, Jupyter Notebook, Linux, Git
 
 ### SWE Tools & Technologies:
 - AWS, Docker, K8s, Django, Flask, Spring Boot, React, Node, Express, MongoDB, Postman, Figma, Git
