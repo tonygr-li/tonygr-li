@@ -7,10 +7,11 @@
 
 🔭 I’m currently looking for a Summer 2025 Internship (MLE or SWE).
 
-🌱 I’m currently Research Assistant at UWaterloo, focusing on NLP.
+🌱 I’m currently AI Researcher at UWaterloo, focusing on Grounded Language Learning.
 
-📫 How to reach me: [Email](mailto:tony.li3@uwaterloo.ca) | [LinkedIn](https://ca.linkedin.com/in/tony--li)
+📫 How to reach me: [Email](mailto:tony.li3@uwaterloo.ca) | [LinkedIn](https://linkedin.com/in/tony--li)
 
+<!--
 ### Languages:
 - Python, C++, C, Go, JavaScript, Java, SQL, HTML, CSS, Bash, Solidity
 
@@ -23,10 +24,10 @@
 
 ### ML Projects:
 1. [Finance Market Sentiment Classifier](https://github.com/tonygr-li/Finance-Mood-Analyzer)
-- Fine tuned Cohere Classifier to analyze current market sentiment with 97% accuracy and 96% F1 score.
+- Fine tuned classifier to analyze financial market sentiment with 97% accuracy and 96% F1 score.
 
 2. [AI Case Summarizer Chatbot](https://github.com/tonygr-li/AI-Case-Summarizer)
-- Created an AI summarizer to extract important points from legal cases, utilizing text chunking and batch processing methods for optimal performance.
+- Created an AI summarizer to extract important points from legal cases.
 
 ### SWE Projects:
 1. [Video Converter](https://github.com/tonygr-li/Microservices-Distributed-Systems)
@@ -34,7 +35,7 @@
 
 2. [Find Your Books](https://github.com/tonygr-li/Find-Your-Books)
 - Deployed a webapp for students to buy and sell used textbooks with secure authentication and administration panel for management.
-
+-->
 <!--
 ### Hi there 👋
 
